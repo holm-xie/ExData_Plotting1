@@ -31,11 +31,10 @@ you can convert the file locally on the command line by using the
 `jupyter nbconvert --to html NOTEBOOK-NAME.ipynb`
 
 
-Further reading
+Further reading<br>
 
 <a href="https://github.com/jupyter/jupyter_notebook" >
-Jupyter Notebook's GitHub repository </a>
-
+Jupyter Notebook's GitHub repository </a><br>
 
 <a href="https://github.com/jupyter/jupyter_notebook" >
 Gallery of Jupyter Notebooks </a>	
