@@ -36,5 +36,6 @@ Further reading
 <a href="https://github.com/jupyter/jupyter_notebook" >
 Jupyter Notebook's GitHub repository </a>
 
+
 <a href="https://github.com/jupyter/jupyter_notebook" >
 Gallery of Jupyter Notebooks </a>	
