@@ -28,9 +28,13 @@ you can convert the file locally on the command line by using the
 <a href="https://github.com/jupyter/nbconvert" >
 <kbd>nbconvert</kbd> command</a>:
 
-jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
+`jupyter nbconvert --to html NOTEBOOK-NAME.ipynb`
+
+
 Further reading
+
 <a href="https://github.com/jupyter/jupyter_notebook" >
 Jupyter Notebook's GitHub repository </a>
+
 <a href="https://github.com/jupyter/jupyter_notebook" >
 Gallery of Jupyter Notebooks </a>	
